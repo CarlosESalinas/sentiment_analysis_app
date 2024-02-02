@@ -1,0 +1,51 @@
+:root {
+    --font-primary: 'Yeseva One', serif;
+    --font-title: 'Onest', sans-serif;
+    --font-button: 'Roboto', sans-serif;
+    --primary-color: #232625;
+    --primary-light: #BFBFB8;
+    --primary-dark: #002A69;
+    --secondary-color: #35403A;
+    --background-primary: #DDB400;
+    /* --background-secondary: #f4afcf;
+    --button-responsive: #54248f; */
+}
+
+body {
+    background-color: var(--primary-color);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--background-primary);
+   
+}
+
+h2{
+    font-family: var(--font-title);
+    font-size: 4rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--background-primary);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.center-heading{
+    text-align: center;
+    padding: 50px 0;
+    justify-self: right;
+}
+
+
+.btn.btn-secondary{
+    background-color: var(--primary-dark); 
+    color: var(--primary-light);
+}
+
+.form-label {
+    text-align: center !important;
+    display: block !important;
+    margin: 10px auto !important;
+}
