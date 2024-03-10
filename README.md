@@ -42,7 +42,7 @@ To successfully complete this project, follow the tasks outlined below:
 
 The result is shown below:
 
-## Posive Sentiment 
+## Positive Sentiment 
 
 ![Positive sentiment](./static/images/img1.png)
 
