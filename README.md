@@ -42,3 +42,11 @@ To successfully complete this project, follow the tasks outlined below:
 
 The result is shown below:
 
+**Positive Emotion**
+
+![Positive emotion](static/images/img1.png)
+
+
+**Negative Emotion**
+
+![Negative emotion](static/images/img2.png)
